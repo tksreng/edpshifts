@@ -1,0 +1,18 @@
+[server]
+headless = true
+port = $PORT
+enableCORS = false
+
+[theme]
+primaryColor = '#1f77b4'
+backgroundColor = '#ffffff'
+secondaryBackgroundColor = '#f0f2f6'
+textColor = '#333333'
+font = 'sans serif'
+
+[general]
+title_color = "#1f77b4"
+subtitle_color = "#333333"
+table_header_color = "#f5f5f5"
+table_header_font = "Arial, sans-serif"
+table_data_font = "Arial, sans-serif"
